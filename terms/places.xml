@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<chapter xmlns="http://www.sibawayhi.org/schema/2010/07/monograph"
+	 xmlns:xi="http://www.w3.org/2001/XInclude">
+
+  <title>Places</title>
+  <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+
+  <p>
+    Place names: "neighborhood" language - e.g. is <ar>الحسينية</ar> a
+    <ar>حارة</ar> or does it contain <ar>حواري</ar>?  Need a list of spatial
+    terms with detailed explication so we know how they are related
+  </p>
+
+
+  <ul dir="rtl">
+    <li>
+القاهرة  -  مصر    -   الجيزة
+    </li>
+    <li>
+	باب اللوق
+    </li>
+    <li>
+	باب الفتوح
+    </li>
+    <li>
+	القلعة  قلعة الجبل
+    </li>
+    <li>
+	الأزهر
+    </li>
+    <li>
+رواق الصاعيدة في جامع الأزهر
+    </li>
+    <li>
+خان الخليلي
+    </li>
+    <li>
+	كوم الجارح
+    </li>
+    <li>
+	جامع الحاكم
+    </li>
+    <li>
+	جامع السلطان الغوري
+    </li>
+    <li>
+	الخليج
+    </li>
+    <li>
+	شارع حدرة البقرة
+    </li>
+    <li>
+حارة ببر جوان  (ص ٢١)
+    </li>
+    <li>
+حارة الميضة
+    </li>
+    <li>
+الجودرية
+    </li>
+    <li>
+السُّكَّرِيَّة
+    </li>
+    <li>
+	حواري الحُسَيْنِيَّة
+    </li>
+    <li>
+      الجمالية
+    </li>
+    <li>
+      الباطنية
+    </li>
+    <li>
+      العطوف
+    </li>
+    <li>
+حلب  Aleppo
+    </li>
+    <li>
+طنجة  Tangiers?
+    </li>
+    <li>
+الهند  India
+    </li>
+    <li>
+حيدر اباد  Hyderabad
+    </li>
+    <li>
+الصين  China
+    </li>
+    <li>
+بربر   Berber
+    </li>
+    <li>
+إيطاليون  Italians
+    </li>
+    <li>
+الغال   Gaul?
+    </li>
+    <li>
+الحبشة   Ethiopia
+    </li>
+    <li>
+الرومي  "Roman" «ورومي تعني التركي العثمانلي»
+    </li>
+    <li>
+عثماني	عثمانلي		Ottoman
+    </li>
+
+  </ul>
+
+
+
+
+  <!-- <remark> -->
+  <!--   remarks ... -->
+  <!-- </remark> -->
+
+  <!-- <terminology xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"> -->
+
+  <!--   <xi:include href="shqq.xml"/> -->
+
+  <!-- </terminology> -->
+
+</chapter>
+

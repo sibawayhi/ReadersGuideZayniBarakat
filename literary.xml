@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<chapter xmlns="http://www.sibawayhi.org/schema/2010/07/monograph"
+	 xmlns:xi="http://www.w3.org/2001/XInclude"
+	 xmlns:sib="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+	 xmlns:typog="http://www.sibawayhi.org/schema/2010/08/typog"
+	 xmlns:xlit="http://www.sibawayhi.org/schema/2010/08/xlit"
+	 xml:id="background">
+
+  <label>ref:lit</label>
+  <title>Literary Background</title>
+
+  <section>
+    <title>Middle Arabic</title>
+
+    <para>
+      para ...
+    </para>
+
+    <subsection>
+      <title>Middle Arabic</title>
+      <para>
+	Traditionally treated as a degenerate form of Arabic, etc.
+      </para>
+
+      <para>
+	al-Ghitāhi: Egyptian middle Arabic as <ar>بلاغة مصرية</ar>,
+	Egyptian idiom, a first-class literary language with its own
+	distinctive expressive capabilities.
+      </para>
+
+    </subsection>
+
+    <subsection>
+      <title>Ibn Iyyās</title>
+      <para>
+	Literary characteristics of his historical writing.
+      </para>
+    </subsection>
+
+  </section>
+
+  <section>
+    <title>The Emergence of the Modern Arabic Novel</title>
+
+    <para>
+      para ...
+    </para>
+
+    <subsection>
+      <title>Zaynab</title>
+      <para>
+	para ...
+      </para>
+    </subsection>
+
+    <subsection>
+      <title>Naguib Mahfuz</title>
+      <para>
+	para ...
+      </para>
+    </subsection>
+
+  </section>
+
+  <section>
+    <title>The 60s Generation (<ar>جيل الستينيات)</ar>)</title>
+    <para>
+      para ...
+    </para>
+  </section>
+
+
+</chapter>
+

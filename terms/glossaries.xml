@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<part xmlns="http://www.sibawayhi.org/schema/2010/07/monograph"
+      xmlns:sib="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+      xmlns:xi="http://www.w3.org/2001/XInclude"
+      xml:id="glossaries">
+  <title>Glossaries</title>
+
+  <!-- <epigraph> -->
+  <!--   <text>[W]ho intends to study the history of terminology by means -->
+  <!--   of a <it>translation</it>, he is anyway beyond salvation.</text> -->
+  <!--   <src>O. Neugebauer, quoted by \cite{hoyrup_lengths_2002}, p. 15</src> -->
+  <!-- </epigraph> -->
+
+
+  <xi:include href="places.xml"/>
+  <xi:include href="people.xml"/>
+  <xi:include href="general.xml"/>
+
+</part>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2
+			   xliff-core-1.2-strict.xsd"
+       version="1.2">
+   <file source-language="ar"
+	 target-language="en-us"
+	 datatype="plaintext">
+      <body>
+        <trans-unit id="1">
+          <source>فوق منبر الأزهر القديم وقف</source>
+          <target>He stood on the old <it>minbar</it> of al-Azhar</target>
+        </trans-unit>
+        <trans-unit id="2">
+          <source> المسجد يفيض الخلق من كل لون وصنف</source>
+          <target></target>
+        </trans-unit>
+        <trans-unit id="3">
+          <source>زعقوا فارتجت الأعمدة</source>
+          <target></target>
+        </trans-unit>
+        <trans-unit id="4">
+          <source>وكادت المآذن تميل</source>
+          <target></target>
+        </trans-unit>
+        <trans-unit id="5">
+          <source>بدا وكأن كل قوة ستعجز عن إسكاتهم</source>
+          <target></target>
+        </trans-unit>
+        <trans-unit id="6">
+          <source>لكن الزيني رفع يده اليمنى</source>
+          <target></target>
+        </trans-unit>
+        <trans-unit id="7">
+          <source>مفرودة الأصابع (يده عادية ، أصابعه خمس)</source>
+          <target></target>
+        </trans-unit>
+        <trans-unit id="8">
+          <source>وكأن قوة سحرية تسيل منه</source>
+          <target></target>
+        </trans-unit>
+        <trans-unit id="9">
+          <source>طاف الصمت مغلقًا أفواه الناس</source>
+          <target></target>
+        </trans-unit>
+        <trans-unit id="10">
+          <source>قيل فيما بعد أنه أوتى مقدرة على جعل الخلق يصمتون</source>
+          <target></target>
+        </trans-unit>
+        <trans-unit id="11">
+          <source>ولو أراد أن يذرفوا الدموع لفعل</source>
+          <target></target>
+        </trans-unit>
+        <trans-unit id="12">
+          <source>سرى صوته بين الناس هادئًا</source>
+          <target></target>
+        </trans-unit>
+        <trans-unit id="13">
+          <source>قال ما معناه</source>
+          <target></target>
+        </trans-unit>
+        <trans-unit id="14">
+          <source>أولًا أنه لم يكن يقبل الحسبة أبدًا</source>
+          <target></target>
+        </trans-unit>
+        <trans-unit id="15">
+          <source>لو لا اطلاعه الأمراء على ما ترتضيه روحه لراحة العباد</source>
+          <target></target>
+        </trans-unit>
+        <trans-unit id="16">
+          <source>ولولا الشيخ العارف بالأصول والفروع الزاهد الناسك ولي الله أبو السعود لما قبل أبدًا</source>
+          <target></target>
+        </trans-unit>
+        <trans-unit id="17">
+          <source>(هنا علا زعيق الناس</source>
+          <target></target>
+        </trans-unit>
+        <trans-unit id="18">
+          <source>رددوا «ما نريد إلّا أنت»</source>
+          <target></target>
+        </trans-unit>
+        <trans-unit id="19">
+          <source>«ما ينفع إلّا أنت»</source>
+          <target></target>
+        </trans-unit>
+        <trans-unit id="20">
+          <source>إلى غير هذا من النداءات</source>
+          <target></target>
+        </trans-unit>
+        <trans-unit id="21">
+          <source>التي تؤدي المعنى نفسه وإن اختلف الجمل والألفاظ</source>
+          <target></target>
+        </trans-unit>
+        <trans-unit id="22">
+          <source>عادت يده تهتز بتؤدة فاستكان العامة وأصغوا)</source>
+          <target></target>
+        </trans-unit>
+        <trans-unit id="23">
+          <source></source>
+          <target></target>
+        </trans-unit>
+      </body>
+   </file>
+</xliff>

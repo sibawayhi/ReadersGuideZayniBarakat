@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<part xmlns="http://www.sibawayhi.org/schema/2010/07/monograph"
+      xmlns:xi="http://www.w3.org/2001/XInclude"
+      xmlns:sib="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+      xmlns:typog="http://www.sibawayhi.org/schema/2010/08/typog"
+      xmlns:xlit="http://www.sibawayhi.org/schema/2010/08/xlit"
+      xml:id="background">
+      >
+
+  <title>Background</title>
+
+  <xi:include href="history.xml"/>
+
+  <xi:include href="literary.xml"/>
+
+  <xi:include href="genre.xml"/>
+
+</part>

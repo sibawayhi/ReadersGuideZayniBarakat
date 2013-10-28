@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<monograph xmlns="http://www.sibawayhi.org/schema/2010/07/monograph"
+	   xmlns:sib="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+	   xmlns:xi="http://www.w3.org/2001/XInclude"
+	   >
+  <title>
+    <series>Reader's Guide</series>
+    <vol>I</vol>
+    <title>Zayni Barakat</title>
+    <subtitle>Readers' Guide to the Novel by Gamal al-Ghitani</subtitle>
+  </title>
+
+  <series>
+    <title>Reader's Guides to Arabic Literature</title>
+    <ul>
+      <li>Vol I: Zayni Barakāt - Gamal al-Ghitani</li>
+      <li>Vol II:  The Book of Epiphanies - Gamal al-Ghitani</li>
+      <li>Vol III:  ???</li>
+    </ul>
+  </series>
+<!-- -->
+  <xi:include href="preface.xml"/>
+
+  <frontmatter>
+    <xi:include href="intro.xml"/>
+  </frontmatter>
+<!-- -->
+  <mainmatter>
+
+<!-- -->
+     <xi:include href="background.xml"/>
+<!-- -->
+
+    <part>
+      <title>Texts</title>
+<!-- -->
+      <xi:include href="texts/ibniyyas.xml"/>
+      <xi:include href="texts/zbpassages.xml"/>
+      <xi:include href="texts/modern.xml"/>
+<!-- -->
+    </part>
+
+    <xi:include href="terms/glossaries.xml"/>
+
+  </mainmatter>
+
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  <backmatter>
+
+    <part>
+      <title>Bibliography</title>
+      <!-- -->
+      <!-- \nocite{*} -->
+
+      <!-- \bibliography{../slowreading} -->
+      
+      <!-- \bibliographystyle{plain} -->
+      <biblio/>
+      <!-- -->
+    </part>
+  </backmatter>
+
+</monograph>

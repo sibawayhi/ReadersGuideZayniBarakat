@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<chapter xmlns="http://www.sibawayhi.org/schema/2010/07/monograph"
+	 xmlns:xi="http://www.w3.org/2001/XInclude">
+
+  <title>Selections from <it>Zayni Barakāt</it></title>
+
+  <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+
+  <section>
+    <title>A Sojourner's Journal</title>
+
+    <article>
+      <xi:include href="zb.passage1.xlf"/>
+    </article>
+
+  </section>
+
+  <section>
+    <title>A Descriptive Passage</title>
+
+    <para><ar>ص ٣٥</ar> (En. p 30)</para>
+
+    <article>
+      <xi:include href="zb.passage2.xlf"/>
+    </article>
+
+  </section>
+
+  <section>
+    <title>A Spy's Report</title>
+
+    <para>
+      <ar>ص ٦١</ar> (En . 52): <ar>تقرير في خطاب الزيني بركات في الأزهر</ar>
+    </para>
+
+    <article>
+      <xi:include href="zb.passage3.xlf"/>
+    </article>
+
+  </section>
+
+</chapter>

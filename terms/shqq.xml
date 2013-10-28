@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<lexeme xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+	lang="ar"
+	tid="riving"
+	label="الاشتقاق">
+
+  <label>
+    <ar>شقق</ar>
+    <gloss>Abruption</gloss>
+  </label>
+  
+  <p>
+    riven = split; burst; ishtiqaq:  fission, cleavage; rive, rift; split, burst;  fission
+  </p>
+
+  <p>
+    Traditional Arabic grammar is not transformational generative
+    grammar; far from it.  Relations discovered by the grammarians are
+    not to be taken as transformations, but purely as relations.
+  </p>
+
+  <p>
+    Take ishtiqaq as an example.  Usually translated as derivation, it
+    actually means something along the lines of bursting or splitting
+    off.  It has a strictly surface interpretation: the base word is
+    broken up and reassembled (with additions and ommisions) to form a
+    new word.  It is only used, however, to describe the formal
+    relation between semantically related words.  But it does /not/
+    imply an ontological committment to a deep structure from which
+    surface forms are "derived".  The base of derivation is (for the
+    Basrans) always the masdar, which is a surface form.  So ishtiqaq
+    should be taken not as derivation from a base but as structural
+    relation among semantically related surface forms.
+  </p>
+
+
+<etym src="etymonline">
+Fissure:  c.1400, from O.Fr. fissure, from L. fissura "a cleft," from root of findere "to split, cleave," from PIE *bhi-n-d-, from base *bheid- "to split" (cf. Skt. bhinadmi "I cleave," O.H.G. bizzan "to bite," O.E. bita "a piece bitten off, morsel," O.N. beita "to hunt with dogs," beita "pasture, food").
+</etym>
+
+<etym src="etymonline">
+1481, from L. ruptura "the breaking (of an arm or leg), fracture," from pp. stem of rumpere "to break," cognate with O.E. reafian "to seize, rob, plunder," reofan "to tear, break;" O.N. rjufa "to break;" see reft).
+</etym>
+
+<etym src="etymonline">
+cleave (1)   "to split," O.E. cleofan "to split, separate" (class II strong verb, past tense cleaf, past participle clofen), from P.Gmc. *kleubanan, from PIE base *gleubh- "to cut, slice." Past tense form clave is recorded in Northern writers from 14c. and was used with both verbs (see cleave (2)), apparently by analogy with other ME strong verbs. Common to c.1600 and still alive at the time of the King James Bible; weak p.t. cleaved also emerged in 14c. for this verb; cleft is still later. The p.p. cloven survives, though mostly in compounds. Cleavage in geology is from 1816. The sense of "cleft between a woman's breasts in low-cut clothing" is first recorded 1946, when it was defined in a "Time" magazine article as the "Johnston Office trade term for the shadowed depression dividing an actress' bosom into two distinct sections" [Aug. 5].
+</etym>
+
+<etym src="etymonline">
+1847, pp. of reave, from O.E. reafian "to rob something from someone," from P.Gmc. *rauthojan (cf. O.Fris. raf, M.Du. roof, Ger. Raub). The ground sense seems to be that of "breaking."
+</etym>
+
+<etym src="etymonline">
+riven   "split, cloven, rent," 1307, past participle of rive "to tear, rend" (c.1275), from O.N. rifa "to tear apart," from P.Gmc. *rifanan (see riparian)
+</etym>
+
+<etym src="etymonline">
+riparian    "of or pertaining to river banks," 1849, from L. riparius "of a river bank," from riparia "shore," later used in ref. to the stream flowing between the banks, from ripa "(steep) bank of a river, shore," probably lit. "break" (and indicating the drop off from ground level to the stream bed), or else "that which is cut out by the river," from PIE base *rei- "to scratch, tear, cut" (cf. Gk. ereipia "ruins," eripne "slope, precipice;" O.N. rifa "break, to tear apart;" Dan. rift "breach," M.H.G. rif "riverbank, seashore;" cf. riven, rift, rifle).
+</etym>
+
+  
+
+</lexeme>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<chapter xmlns="http://www.sibawayhi.org/schema/2010/07/monograph"
+	 xmlns:xi="http://www.w3.org/2001/XInclude"
+	 xmlns:sib="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+	 xmlns:typog="http://www.sibawayhi.org/schema/2010/08/typog"
+	 xmlns:xlit="http://www.sibawayhi.org/schema/2010/08/xlit"
+	 xml:id="background">
+
+  <label>ref:history</label>
+  <title>Historical Background</title>
+
+  <section>
+    <title>Mamluk Egypt on the Eve of the Ottoman Invasion</title>
+
+    <!-- <epigraph> -->
+    <!--   <text>... epigraph ...</text> -->
+    <!--   <src>... source ...</src> -->
+    <!-- </epigraph> -->
+
+    <para>
+      para ...
+    </para>
+
+    <subsection>
+      <title>Mamluk Historiography</title>
+      <para>
+	Maqrizi, Ibn Iyyas, etc.
+      </para>
+
+    </subsection>
+
+  </section>
+
+  <section>
+    <title>Egypt 1919-1967</title>
+
+    <!-- <epigraph> -->
+    <!--   <text>... epigraph ...</text> -->
+    <!--   <src>... source ...</src> -->
+    <!-- </epigraph> -->
+
+    <para>
+      para ...
+    </para>
+
+    <subsection>
+      <title>1919 Revolution</title>
+      <para>
+	para ...
+      </para>
+
+    </subsection>
+
+    <subsection>
+      <title>1952</title>
+      <para>
+	para ...
+      </para>
+
+    </subsection>
+
+    <subsection>
+      <title>1967</title>
+      <para>
+	para ...
+      </para>
+
+    </subsection>
+
+    <subsection>
+      <title>The 60s Generation (<ar>جيل الستينيات)</ar>)</title>
+      <para>
+	para ...
+      </para>
+
+    </subsection>
+
+  </section>
+
+</chapter>
+

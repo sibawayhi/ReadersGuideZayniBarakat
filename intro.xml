@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<chapter xmlns="http://www.sibawayhi.org/schema/2010/07/monograph">
+  <title>Introduction</title>
+  <epigraph>
+    <text>Philology is the art of reading slowly</text>
+    <src>Roman Jakobsen, quoted by Calvert Watkins in "What is Philology", in "On Philology"</src>
+  </epigraph>
+
+  <para>
+    Intro to ZB ...
+  </para>
+
+
+  <section>
+    <title>Organization of this book</title>
+
+    <ul>
+      <li>Background</li>
+      <li>Texts</li>
+      <ul>
+	<li>Ibn Iyyas</li>
+	<li>Zayni Barakat</li>
+      </ul>
+      <li>Glossary</li>
+    </ul>
+
+  </section>
+
+</chapter>

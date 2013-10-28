@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2
+			   xliff-core-1.2-strict.xsd"
+       version="1.2">
+   <file source-language="ar"
+	 target-language="en-us"
+	 datatype="plaintext">
+      <body>
+        <trans-unit id="1">
+          <source>رَجَب ٩٢٢ هـ</source>
+          <target>Rajab 922 AH.</target>
+        </trans-unit>
+        <trans-unit id="2">
+          <source>أُغُسْطُس إلى سَبْتَمْبِر ١٥١٧ م</source>
+          <target>August to September, 1517 CE.</target>
+        </trans-unit>
+        <trans-unit id="3">
+          <source>
+	  (مُقْتَطَفُ «أ» مِنْ  مُشَاهَدَاتِ الرَّحَّالَةِ الْبُنْدُقِيِّ [فِياسْكُونْتِي جَانْتِي]
+	  </source>
+          <target>(Excerpt A from observations of the traveler Visconti Gianti</target>
+        </trans-unit>
+        <trans-unit id="3.1">
+          <source>
+	    الَّذِي زَارَ الْقَاهِرَةَ أَكْثَرَ مِن مَرَّةٍ فِي الْقَرْنِ السَّادِس عَشَر الْمِيْلَادِيّ أَثْنَاءَ طَوَافِهِ بِالْعَالَمِ .
+	  </source>
+          <target>who visited Cairo more than once in the 16th century CE. during his travels of the world</target>
+        </trans-unit>
+        <trans-unit id="4">
+          <source>تُسَجِّلُ ه­َذِهِ الْمُشَاهَدَاتُ أَحْوَالَ الْقَاهِرَةِ خِلَالَ شَهْرِ أُغُسْطُس ١٥١٧ مِيْلَادِيَّةً الْمُوَافِقَ رَجَب ٩٢٢ هـ )</source>
+          <target>These observations record the circumstances of Cairo during the month of August 1517 CE., corresponding to Rajab 922 AH.)</target>
+        </trans-unit>
+        <trans-unit id="5">
+          <source>(لِكُلِّ أَوَّلَ آخِرُ وَلِكُلِّ بِدَايَةٍ نِهَايَةٌ)</source>
+          <target>(To every first a last, and to every beginning an ending.)</target>
+        </trans-unit>
+        <trans-unit id="6">
+          <source>تَضْطَرِبُ أَحْوَالُ دِيَارَ مِصْرَ هَذِهِ الْأَيَامَ ،</source>
+          <target>The circumstances of the territories of <it>Misr</it> are disturbed these days</target>
+	  <note><it>Misr</it> <ar>(مِصْر)</ar> refered to a specific location in Cairo.  <ar>دِيار</ar>, (sing. <ar>دار</ar>) would thus refer to the lands controlled by the seat of power, i.e. the Mamluk Empire, rather than Egypt alone.</note>
+        </trans-unit>
+        <trans-unit id="7">
+          <source>وَجْهُ الْقَاهِرَةِ غَرِيْبٌ عِنِّي ،</source>
+          <target>The face of Cairo is a stranger to me</target>
+        </trans-unit>
+        <trans-unit id="8">
+          <source>لَيْسَ مَا عَرَفْتُهُ في رِحَلَاتِي السَّابِقَةِ ،</source>
+          <target>It is not what I knew in my previous visits</target>
+        </trans-unit>
+        <trans-unit id="9">
+          <source>أَحَادِيْثُ النَّاسِ تَغَيَّرَتْ ،</source>
+          <target>The talk of the people has changed</target>
+        </trans-unit>
+        <trans-unit id="10">
+          <source>أَعْرِفُ لُغَةَ الْبِلَادِ وَلَهَجَاتِهَا ،</source>
+          <target>I know the language and dialects of the country</target>
+        </trans-unit>
+        <trans-unit id="11">
+          <source>أَرَى وَجْهَ الْمَدِيْنَةِ مَرِيْضًا يُوْشِكُ على الْبُكَاءِ ،</source>
+          <target>I see the face of the city [as] ill, verging on sobbing</target>
+        </trans-unit>
+        <trans-unit id="12">
+          <source>امْرَأَةٌ مَذْعُوْرَةٌ تَخْشَى اغْتِصَابَهَا آخِرَ اللَّيْلِ ،</source>
+          <target>A terrified woman, fearing rape late at night</target>
+        </trans-unit>
+        <trans-unit id="13">
+          <source>حَتَّى السَّمَاءُ نَحِيْلَةٌ زَرْقَاءُ ،</source>
+          <target>Even the skies are a thin blue</target>
+        </trans-unit>
+        <trans-unit id="14">
+          <source>صَفَاؤُهَا بِهِ كَدِرٌ ،</source>
+          <target>Their purity murky</target>
+        </trans-unit>
+        <trans-unit id="15">
+          <source>مُغَطَّاةٌ بِضَبَابٍ قَادِمٍ مِنْ بِلَادٍ بَعِيْدَةٍ ،</source>
+          <target>Covered with a fog from a distant country</target>
+        </trans-unit>
+        <trans-unit id="16">
+          <source>أَذْكُرُ قُرَى الْهِنْدِ الصَّغِيْرَةِ إِذْ يُدْرِكُهَا الْوَبَاءُ ،</source>
+          <target>I recall the small villages of India when the plague overtakes them</target>
+        </trans-unit>
+        <trans-unit id="17">
+          <source>يُثْقَلُ هَوَاؤُهَا بِالرُّطُوْبَةِ ،</source>
+          <target>Their atmosphere burdened by humidity</target>
+        </trans-unit>
+        <trans-unit id="18">
+          <source>اللَّيْلَةَ ، تَنْتَظِرُ الْبُيُوْتُ أَمْرًا</source>
+          <target>Tonight the houses await something</target>
+        </trans-unit>
+        <trans-unit id="18.1">
+          <source>قَدْ يَأْتِي غَدًا أَوْ بَعْدَ غَدٍ</source>
+          <target>It may come tomorrow, or the day after</target>
+        </trans-unit>
+        <trans-unit id="19">
+          <source>أُصْغِي إلى وَقْعِ حَوَافَرَ تَصْطَدِمُ بِحِجَارَةِ الطَّرِيْقِ ،</source>
+          <target>I listen to the clatter of hooves striking the cobblestones of the street</target>
+        </trans-unit>
+        <trans-unit id="20">
+          <source>تَبْعُدُ ، تَنْأَى ،</source>
+          <target>Receding, growing distant</target>
+        </trans-unit>
+        <trans-unit id="21">
+          <source>أُطِلُّ مِن مَشْرَبِيَّةِ الْبَيْتِ مُحَاذِرًا أَنْ يَرَانِي أَحَدٌ ،</source>
+          <target>I peer out from the <it>mashrabiyya</it> of the house carefully, lest anyone see me</target>
+        </trans-unit>
+        <trans-unit id="22">
+          <source>أُطِلُّ وَالظَّلَامُ يَلُفُّ الْبُيُوْتَ ،</source>
+          <target>I peer and the shadows swaddle the houses</target>
+        </trans-unit>
+        <trans-unit id="23">
+          <source>لَا أَرَى مِئْذَنَةَ جَامَعِ السُّلْطَانِ الْغُوْرِي الْجَدِيْد ،</source>
+          <target>I don't see the minaret of the new Sultan Goury Mosque</target>
+        </trans-unit>
+        <trans-unit id="24">
+          <source>لَمْ تَمْضِ سَنَوَاتٌ عَلَى بِنَائِهِ ،</source>
+          <target>Not many years have passed since it was built</target>
+        </trans-unit>
+        <trans-unit id="25">
+          <source>لَمْ أَرَهُ عِنْدَمَا جِئْتُ هُنَا آخِرَ مَرَّةٍ قَبْلَ رَحِيْلِي الطَّوِيْلِ إلى الشَّرْقِ ،</source>
+          <target>I did not see it the last time I came, before my long journey to the East</target>
+        </trans-unit>
+        <trans-unit id="26">
+          <source>سَمِعْتُ بِاسْتِعْدَادَاتٍ تَجْرِي لِبِنَائِهِ ،</source>
+          <target>I heard of the preparations for building it</target>
+        </trans-unit>
+        <trans-unit id="27">
+          <source>تَشْيِيْدِ الْقُبَّةِ الضَّخْمَةِ الْمُوَاجِهَةِ لَهُ ،</source>
+          <target>Erecting the great dome opposite it</target>
+        </trans-unit>
+        <trans-unit id="28">
+          <source>أُطِلُّ بِرَأْسِي قَلَيْلًا ،</source>
+          <target>I poke my head out a little</target>
+        </trans-unit>
+        <trans-unit id="29">
+          <source>أَخَافُ انْفِتَاقَ الظَّلَامِ عَنْ وُجُوْهِ دَرَكٍ قُسَاةِ الْقُلُوْبِ ،</source>
+          <target>I fear the darkness may split and reveal the faces of the hard-hearted guards</target>
+        </trans-unit>
+        <trans-unit id="30">
+          <source>إِذْ يَجِدُوْنَنِي أَفْرَنْجِيًّا ، يَدْفَعُوْنَ بِي إلى الْمَوْتِ بِلَا مُحَاكَمَةٍ ،</source>
+          <target>If they find me, a foreigner, they will usher me to death without trial</target>
+        </trans-unit>
+        <trans-unit id="31">
+          <source>لَا اسْتِجْوَابَ ، لَا سُؤَالَ ، مَنْ أَنَا ، مِنْ أَيْنَ جِئْتَ !!</source>
+          <target>No interrogation, no question of who I am, where I am from!</target>
+        </trans-unit>
+        <trans-unit id="32">
+          <source>لَنْ تُتُاحَ الْفُرْصَةُ لِأُخْبِرَهُمْ ، لِأُقْنِعَهُمْ ،</source>
+          <target>No chance provided to inform them, to convince them</target>
+        </trans-unit>
+        <trans-unit id="33">
+          <source>إِنَّنِي أَعْرِفُ الْوَالِيَ الْأَمِيْرَ «كُرْتْبَايْ» مَعْرِفَةً شَخْصِيَّةً ،</source>
+          <target>That I know the Governor, the Emir Kurtbey, that I personally know him</target>
+        </trans-unit>
+        <trans-unit id="34">
+          <source>بَلْ إِنَّنِي أَصْغَيْتُ مَرّتَيْنِ إلى مُتَوَلِّي حَسَبَةِ الْقَاهِرَةِ ،</source>
+          <target>Even that I have listened twice to the <it>Muhtasib</it> of Cairo</target>
+        </trans-unit>
+        <trans-unit id="35">
+          <source>الزَّيْنِي بَرَكَاتُ بْنُ مُوْسَى ،</source>
+          <target>Zayni Barakāt ibn Musa </target>
+        </trans-unit>
+        <trans-unit id="36">
+          <source>إِنَّهُ صَاحِبُ مَنَاصِبَ عَدِيْدَةٍ أَيْضًا ،</source>
+          <target>He holds many other offices</target>
+        </trans-unit>
+        <trans-unit id="37">
+          <source>وَمَسْؤُوْلٌ عَنْ حِفْظِ الْأَمْنِ وَالنِّظَامِ ،</source>
+          <target>And is responsible for preservation of security and order</target>
+        </trans-unit>
+        <trans-unit id="38">
+          <source>لَوْ رَآنِي سَيَتَذَكَّرُنِي ،</source>
+          <target>If he saw me he would remember me</target>
+        </trans-unit>
+        <trans-unit id="39">
+          <source>أَعْرِفُ أَنَّهُ لَا يَنْسَى وَجْهًا عَابِرًا رَآهُ مَرَةً وَاحِدَةً ،</source>
+          <target>I know that he never forgets a face even if he sees it only once</target>
+        </trans-unit>
+        <trans-unit id="40">
+          <source>حَتَّى لَوْ مَضَى على رُؤْيَتِهِ لَصَاحِبِهِ عَشَرَةُ أَعْوَامٍ ،</source>
+          <target>Even if ten years have passed since he saw it</target>
+        </trans-unit>
+        <trans-unit id="41">
+          <source>على أَيَّةِ حَالٍ سَأَبْقَى اللَّيْلَةَ ،</source>
+          <target>In any case I shall remain, tonight</target>
+        </trans-unit>
+        <trans-unit id="42">
+          <source>بِالتَّأْكِيْدِ لَنْ أَنْجُوَ مِن الْعَسَسِ ، الْمِنْسِرِ ، الْمَمَالِيْكِ ،</source>
+          <target>Definitely I would not be safe from the watchmen, the brigands, the Mamluks</target>
+        </trans-unit>
+        <trans-unit id="43">
+          <source>بُيُوْتُ الْمَدِيْنَةِ كُلُّهَا مُغْلَقَةٌ مَرْعُوْشَةٌ</source>
+          <target>The houses of the city, all of them are locked and trembling</target>
+        </trans-unit>
+        <trans-unit id="44">
+          <source>تَوَدُّ لَوْ تَوَارَتْ ،</source>
+          <target>They want to hide</target>
+        </trans-unit>
+        <trans-unit id="45">
+          <source>تُنْفَى إلى الْأَمَانِ الْمَرْجُوِّ</source>
+          <target>Be exiled to the security desired</target>
+        </trans-unit>
+        <trans-unit id="46">
+          <source>شُمُوْعُ بَيْتِي مَطَفَّأَةٌ ،</source>
+          <target>The candles of my house are extinguished</target>
+        </trans-unit>
+        <trans-unit id="47">
+          <source>أَخْشَى تَرَاقُصَ الضَّوْءِ في أَحْدَاقِ الْعُيُوْنِ الْمُتَلَصِّصَةِ</source>
+          <target>I fear the light dancing in the pupils of the eyes
+          of the watchers</target>
+        </trans-unit>
+
+      </body>
+   </file>
+</xliff>

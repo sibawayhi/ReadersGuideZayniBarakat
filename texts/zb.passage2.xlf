@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2
+			   xliff-core-1.2-strict.xsd"
+       version="1.2">
+   <file source-language="ar"
+	 target-language="en-us"
+	 datatype="plaintext">
+      <body>
+        <trans-unit id="1">
+          <source>وَقْتَهَا يَقُوْمُ الْكَارِهُوْنَ</source>
+          <target>At that time the haters will rise</target>
+        </trans-unit>
+        <trans-unit id="2">
+          <source>أَوْلَادُ النَّاسِ</source>
+          <target>The sons of the people</target>
+        </trans-unit>
+        <trans-unit id="3">
+          <source>مَسَاتِيْرُ النَّاسِ</source>
+          <target>The ???? of the people</target>
+        </trans-unit>
+        <trans-unit id="4">
+          <source>مَشَايِخُ الطُّرُقِ</source>
+          <target>The shaykhs of the Tariqas</target>
+        </trans-unit>
+        <trans-unit id="5">
+          <source>طَلَبَةُ الْأَزْهَرِ وَالْمُجَاوِرُوْنَ</source>
+          <target>The students of Al-Azhar and the adjuncts(?)</target>
+        </trans-unit>
+        <trans-unit id="6">
+          <source>سَيَرَوْنَ في الْمَحَابِيْسِ كُلَّ مَنْ أَمْسَكَهُمْ زَكَرِيَّا مَسَاكِيْنَ</source>
+          <target>They will see in the dungeons that everyone seized by Zakkariya is a <it>miskīn</it></target>
+        </trans-unit>
+        <trans-unit id="7">
+          <source>أَرْوَاحُهُمْ بَرِيْئَةٌ</source>
+          <target>Their souls are innocent</target>
+        </trans-unit>
+        <trans-unit id="8">
+          <source>لَمْ تَجْنِ ذَنْبًا</source>
+          <target>They committed no crime</target>
+        </trans-unit>
+        <trans-unit id="9">
+          <source>لَمْ يَتَآمَرْ أَصْحَابُهَا</source>
+          <target>They did not conspire</target>
+	  <note>Literally, the owners of their souls did not conspire</note>
+        </trans-unit>
+        <trans-unit id="10">
+          <source>لَم يَسْرُقْ بَعْضَهُمْ</source>
+          <target>They did not rob each other</target>
+        </trans-unit>
+        <trans-unit id="12">
+          <source>لَمْ يَقُلْ سَبَابًا في طَرِيْقٍ عَامٍ ضِدَّ أَمِيْرٍ أَوْ كَبَيْرٍ</source>
+          <target>They uttered no insult in the public way against any Emir or powerful person</target>
+        </trans-unit>
+
+      </body>
+   </file>
+</xliff>
