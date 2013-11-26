@@ -1,7 +1,5 @@
-ReadersGuideZayniBarakat
+Readers Guide to *Zayni Barakat*, a Novel by Gamal al-Ghitani
 ========================
-
-Reader's Guide to Zayni Barakat, a Novel by Gamal al-Ghitani
 
 
 Mostly an outline, so far.  See zbguide.pdf.
