@@ -30,10 +30,21 @@
 
 <!-- -->
      <xi:include href="background.xml"/>
+     <xi:include href="themes.xml"/>
 <!-- -->
 
     <part>
       <title>Texts</title>
+
+      <para>
+	The purpose here is explication rather than translation per se.
+	The tranlation thus follows the original as closely as possible in
+	both vocabulary and syntax, without worrying overmuch about
+	natural idiomatic English.  The goal is to help the student
+	understand the fine detail of how the original Arabic works.
+      </para>
+
+
 <!-- -->
       <xi:include href="texts/ibniyyas.xml"/>
       <xi:include href="texts/zbpassages.xml"/>

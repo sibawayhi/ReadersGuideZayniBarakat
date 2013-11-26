@@ -18,7 +18,12 @@
         </trans-unit>
         <trans-unit id="3">
           <source>مَسَاتِيْرُ النَّاسِ</source>
-          <target>The ???? of the people</target>
+          <target>The well-off of the people</target>
+	  <note><ar>مساتير</ar> plural of <ar>مستور</ar> BH: 1)
+	  wealthy, 2) having one's basic needs provided for.  Here the
+	  reference is to people formerly in the service of the
+	  Mamluks, who have become integrated into Egyptian society,
+	  like <ar>أولاد الناس</ar>.</note>
         </trans-unit>
         <trans-unit id="4">
           <source>مَشَايِخُ الطُّرُقِ</source>
@@ -30,7 +35,7 @@
         </trans-unit>
         <trans-unit id="6">
           <source>سَيَرَوْنَ في الْمَحَابِيْسِ كُلَّ مَنْ أَمْسَكَهُمْ زَكَرِيَّا مَسَاكِيْنَ</source>
-          <target>They will see in the dungeons that everyone seized by Zakkariya is a <it>miskīn</it></target>
+          <target>They will see in the dungeons that everyone seized by Zakkariya is a wretch</target>
         </trans-unit>
         <trans-unit id="7">
           <source>أَرْوَاحُهُمْ بَرِيْئَةٌ</source>
@@ -51,7 +56,7 @@
         </trans-unit>
         <trans-unit id="12">
           <source>لَمْ يَقُلْ سَبَابًا في طَرِيْقٍ عَامٍ ضِدَّ أَمِيْرٍ أَوْ كَبَيْرٍ</source>
-          <target>They uttered no insult in the public way against any Emir or powerful person</target>
+          <target>They uttered no insult in the public way against any Emir or senior [official]</target>
         </trans-unit>
 
       </body>

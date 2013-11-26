@@ -9,96 +9,457 @@
 	 datatype="plaintext">
       <body>
         <trans-unit id="1">
-          <source>فوق منبر الأزهر القديم وقف</source>
+          <source>َفَوْقَ مِنْبَرِ الْأَزْهَرِ الْقَدِيْمِ وَقَف</source>
           <target>He stood on the old <it>minbar</it> of al-Azhar</target>
         </trans-unit>
         <trans-unit id="2">
-          <source> المسجد يفيض الخلق من كل لون وصنف</source>
-          <target></target>
+          <source> ٍاَلْمَسْجِدُ يَفِيْضُ الْخَلْقَ مِنْ كُلِّ لَوْنٍ وَصِنْف</source>
+          <target>The mosque overflowing with people of every color and kind</target>
+	  <note><ar>الْخَلْق</ar> BH: people (cf. <ar>ناس</ar>)</note>
+	  <note>Note the apparent shift in tense from perfect in
+	  segment one, to imperfect in this segment, and back to
+	  perfect in the next segment.  But that's a misconstrual; the
+	  forms of the Arabic verb do not always encode tense.  In
+	  particular, the so-called imperfect is basically equivalent
+	  to the (so-called) participle, so it should often be taken
+	  (as in this segment) as an adjective rather than a verb.
+	  Not "the mosque overflows/is overflowing with ..." but
+	  something closer to "the mosque overflowing with ..."
+	  Compare e.g. "He passed by a mosque full of people."  The
+	  adjectival quality is effectively tenseless, or more
+	  precisely, its temporal sense is parasitic on the tense of
+	  the main verb.  Note that if the author had introduced the
+	  connective <ar>وَ</ar>, as one would usually expect, the
+	  sense would be slightly different, something closer to "as
+	  the mosque overflowed..." or "while the mosque was
+	  overflowing with ...".  But al-Ghitani routinely omits this
+	  so-called <it>circumstantial waw</it>, presumably for
+	  specific rhetorical purposes.
+	  </note>
+	  <note>Normally <ar>َفَاض</ar> is intransitive, so we would
+	  expect <ar>ِالْمَسْجِدُ يَفِيْضُ بِالْخَلْق</ar>.  Is this a typo, or a
+	  colloquial use of <ar>َفَاض</ar> as a transitive verb?</note>
         </trans-unit>
         <trans-unit id="3">
-          <source>زعقوا فارتجت الأعمدة</source>
+          <source>ُزَعَقُوْا فَارْتَجَّتْ الْأَعْمِدَة</source>
           <target></target>
         </trans-unit>
         <trans-unit id="4">
-          <source>وكادت المآذن تميل</source>
+          <source>ُوَكَادَتْ الْمَآذِنُ تَمِيْل</source>
           <target></target>
         </trans-unit>
         <trans-unit id="5">
-          <source>بدا وكأن كل قوة ستعجز عن إسكاتهم</source>
+          <source>ْبَدَا وَكَأَنَّ كُلُّ قُوَّةٍ سَتَعْجِزُ عَنْ إِسْكَاتِهِم</source>
           <target></target>
         </trans-unit>
         <trans-unit id="6">
-          <source>لكن الزيني رفع يده اليمنى</source>
+          <source>لٰكِنَ الزَّيْنِي رَفَعَ يَدَه الْيُمْنَى</source>
           <target></target>
         </trans-unit>
         <trans-unit id="7">
-          <source>مفرودة الأصابع (يده عادية ، أصابعه خمس)</source>
+          <source>ِمَفْرُوْدَةَ الْأَصَابِع</source>
+          <target></target>
+        </trans-unit>
+        <trans-unit id="7.1">
+          <source>(ٌيَدُهُ عَادِيَّةٌ ، أَصَابِعُهُ خَمْس)</source>
           <target></target>
         </trans-unit>
         <trans-unit id="8">
-          <source>وكأن قوة سحرية تسيل منه</source>
+          <source>ُوَكَأَنَّ قُوَّةٌ سَحْرِيَّةٌ تَسِيْلُ مِنْه</source>
           <target></target>
         </trans-unit>
         <trans-unit id="9">
-          <source>طاف الصمت مغلقًا أفواه الناس</source>
+          <source>ِطَافَ الصَّمْتُ مُغْلِقًا أَفْوَاهَ النَّاس</source>
           <target></target>
         </trans-unit>
         <trans-unit id="10">
-          <source>قيل فيما بعد أنه أوتى مقدرة على جعل الخلق يصمتون</source>
+   <source>قِيْلَ فِيْمَا بَعْدُ أَنَّهُ أُوْتِيَ مِقْدَرَةً عَلَى جَعْلِ الْخَلْقِ يَصْمُتُوْن</source>
           <target></target>
         </trans-unit>
         <trans-unit id="11">
-          <source>ولو أراد أن يذرفوا الدموع لفعل</source>
+          <source>َوَلَوْ أَرَادَ أَنْ يُذَرِّفُوْا الدُّمُوْعَ لَفَعَل</source>
           <target></target>
         </trans-unit>
         <trans-unit id="12">
-          <source>سرى صوته بين الناس هادئًا</source>
+          <source>سَرَى صَوْتُهُ بَيْنَ النَّاسِ هِادِئًا</source>
           <target></target>
         </trans-unit>
         <trans-unit id="13">
-          <source>قال ما معناه</source>
+          <source>ُ:قَالَ مَا مَعْنَاه</source>
           <target></target>
         </trans-unit>
         <trans-unit id="14">
-          <source>أولًا أنه لم يكن يقبل الحسبة أبدًا</source>
+          <source>أَوَّلًا أَنَّهُ لَمْ يَكُنْ يَقْبَلُ الْحَسَبَةَ أَبَدًا</source>
           <target></target>
         </trans-unit>
         <trans-unit id="15">
-          <source>لو لا اطلاعه الأمراء على ما ترتضيه روحه لراحة العباد</source>
+          <source>ِلَوْ لَا إِطْلَاعِهِ الْأُمَرَاءَ عَلَى مَا تَرْتَضِيْهِ رُوْحُهُ لِرَاحَةِ الْعِبَاد</source>
           <target></target>
+          <note><ar>الرَّاحَة</ar> BH: comfort, ease;  <ar>ارْتَضَى</ar> to be satisfied, be content.  Note the wordplay: <ar>رُوْح  -  رَاحَة</ar>, both from the root <ar>روح</ar>.  A strict translation might run something like ``what his spirit finds acceptable for the comfort of the people.''</note>
         </trans-unit>
         <trans-unit id="16">
-          <source>ولولا الشيخ العارف بالأصول والفروع الزاهد الناسك ولي الله أبو السعود لما قبل أبدًا</source>
+          <source>وَلَوْ لَا الشَْيْخُ الْعَارِفُ بِالْأُصُوْلِ وَالْفُرُوْعِ الزَّاهِدُ النَّاسِكُ وَلِيُّ اللّٰهِ أَبُو السُّعُوْدِ لَمَا قَبِلَ أَبَدًا</source>
           <target></target>
         </trans-unit>
         <trans-unit id="17">
-          <source>(هنا علا زعيق الناس</source>
+          <source>(ِهُنَا عَلَا زَعِيْقُ النَّاس</source>
           <target></target>
         </trans-unit>
         <trans-unit id="18">
-          <source>رددوا «ما نريد إلّا أنت»</source>
+          <source>َرَدَّدُوْا «مَا نُرِيْدُ إِلَّا أَنْت»</source>
           <target></target>
         </trans-unit>
         <trans-unit id="19">
-          <source>«ما ينفع إلّا أنت»</source>
+          <source>«َمَا يَنْفَعُ إِلَّا أَنْت»</source>
           <target></target>
         </trans-unit>
         <trans-unit id="20">
-          <source>إلى غير هذا من النداءات</source>
+          <source>ِإِلَى غَيْرِ هٰذَا مِنَ النِّدَاءَات</source>
           <target></target>
         </trans-unit>
         <trans-unit id="21">
-          <source>التي تؤدي المعنى نفسه وإن اختلف الجمل والألفاظ</source>
+          <source>ُالَّتِي تُؤَدِّي الْمَعْنَى نَفْسَهُ</source>
+          <target></target>
+        </trans-unit>
+        <trans-unit id="21.1">
+          <source>ُوَإِنْ اخْتَلَفَ الْجُمَلُ وَالْأَلْفَاظ</source>
           <target></target>
         </trans-unit>
         <trans-unit id="22">
-          <source>عادت يده تهتز بتؤدة فاستكان العامة وأصغوا)</source>
+          <source>عَادَتْ يَدُهُ تَهْتَزُّ بِتُؤَدَةٍ فاستكان العامة وأصغوا)</source>
           <target></target>
+          <note><ar>تُؤَدَة</ar> root:  <ar>وأد</ar> (Fusha);  Wehr: <ar>على تُؤَدَةٍ</ar> deliberately, unhurriedly; Lane: leisurely or moderate manner of proceeding, calmly, etc.  Syn:  <ar>تَأَنٍّ وتَمَهُّل ورَزانَة وسَكِيّنَة</ar></note>
         </trans-unit>
         <trans-unit id="23">
-          <source></source>
+          <source>ِثَانِيًا أَنَّهُ لَا يَخْشَى إِلَّا بِللّٰه</source>
           <target></target>
+        </trans-unit>
+        <trans-unit id="24">
+          <source>كَيْفَ يِلْقَى رَبَّهُ إِذَا ظَلِمَ مَخْلُوْقٌ مِنْ قِبَل أَحَدِ نُوَّابِهِ وَهُوَ لَا يَدْرِي؟</source>
+          <target></target>
+          <note><ar>يلقي  =  يُلاقِي ؟   </ar></note>
+        </trans-unit>
+        <trans-unit id="25">
+          <source>
+          هٰذَا مَالَا يُطِيْقُهُ وَلَا يُمْكِنُهُ سَمَاعُهُ قَطُّ،
+          </source>
+          <target></target>
+        </trans-unit>
+        <trans-unit id="26">
+          <source>
+مِنْ هُنَا لَوْ وَقَعَ ظُلْمٌ عَلَى إِنْسَانٍ،
+          </source>
+          <target></target>
+        </trans-unit>
+        <trans-unit id="27">
+          <source>
+    فَقِيْرٍ أَوْ غَنِيٍّ،
+          </source>
+          <target></target>
+        </trans-unit>
+        <trans-unit id="28">
+          <source>
+    نَاءٍ أَوْ دَنٍ،
+          </source>
+          <target></target>
+        </trans-unit>
+        <trans-unit id="29">
+          <source>ِعَلَيْهِ بِالتَّوَجُّهِ إِلَى نِائِبِه</source>
+          <target></target>
+        </trans-unit>
+        <trans-unit id="30">
+          <source>
+          إِنْ لَمْ يَقْتَصُّ مِنْ ظَالِمِهِ
+          </source>
+          <target></target>
+        </trans-unit>
+        <trans-unit id="31">
+          <source>
+          بَعْدَ شَرْحِ قَضِيَّتِهِ
+          </source>
+          <target></target>
+        </trans-unit>
+        <trans-unit id="32">
+          <source>وَظُهُوْرِ الْعَدْلِ فِيْهَا</source>
+          <target></target>
+        </trans-unit>
+        <trans-unit id="33">
+          <source>
+          ثَالِثًا لَنْ يَمْكُثُ فِي الْقَاهِرَةِ،</source>
+          <target></target>
+        </trans-unit>
+        <trans-unit id="34">
+          <source>
+          إِنَّمَا سَيَلُفُّ الْوَجّهَيْنِ،</source>
+          <target></target>
+          <note><ar>الْوَجْهَيْن</ar> the two regions of Egypt, <ar>الْوَحْهُ الْقِبْلِي</ar> (the southern face/direction) Upper Egypt, <ar>الْوَجْهُ الْبَحْرِي</ar> (the maritime face/direction) Lower Egypt</note>
+        </trans-unit>
+        <trans-unit id="35">
+          <source>
+          فَقَدْ أُضَيْفَتْ إِلَيْهِ الْيَوْمَ فَقَطْ نِظَارَةُ حَسَبَةِ الْجِيْزَةِ،
+          </source>
+          <target></target>
+        </trans-unit>
+        <trans-unit id="36">
+          <source>
+          سَيَدُوْرُ ظَاهِرًا أَحْيَانًا وَمُتَخَفِّيًا حِيْنًا آخَرَ،
+          </source>
+          <target></target>
+        </trans-unit>
+        <trans-unit id="37">
+          <source>
+          يَطَّلِعُ عَلَى أَحْوَالِ النَّاسِ،
+          </source>
+          <target></target>
+        </trans-unit>
+        <trans-unit id="38">
+          <source>
+          أَمَّا بَيْتُهُ فِي الْقَاهِرَةِ،</source>
+          <target></target>
+        </trans-unit>
+        <trans-unit id="39">
+          <source>
+          فَمَفْتُوْحٌ أَطْرَافَ اللَّيْلِ وَآنَاءَ النَّهَارِ لِكُلِّ ذِي حَاجَةٍ،
+          </source>
+          <target>Well, open the extremities of the night and the times of the day to everyone in need</target>
+          <note><ar>آنَاء</ar>, plural of <ar>أَنًى</ar> Wehr: (span of) time, period</note>
+        </trans-unit>
+        <trans-unit id="40">
+          <source>
+          لَا حَاجِبٌ بَيْنَهُ وَبَيْنَ النَّاسِ،
+          </source>
+          <target>No barrier between him and the people</target>
+        </trans-unit>
+        <trans-unit id="41">
+          <source>
+          صَغِيْرُهُمْ أَوْ كَبِيْرُهُمْ،
+          </source>
+          <target>The small and the great</target>
+        </trans-unit>
+        <trans-unit id="42">
+          <source>
+          عَلَى اخْتِلَافِ مَرَاتِبِهِمْ،
+          </source>
+          <target>In their various ranks</target>
+        </trans-unit>
+        <trans-unit id="43">
+          <source>
+          لَوْ ظُلِمَ أَحَدٌ مِنَ الْبَشَرِ فَلِيُقْتَصَّ مِنْهُ عَلَى مَرْأًى مِنَ الْجَمِيْعِ
+          </source>
+          <target>If any human oppresses, let him be chastised in view of everybody</target>
+        </trans-unit>
+        <trans-unit id="44">
+          <source>
+          رَابِعًا وَهٰذَا خَطِيْرٌ
+          </source>
+          <target>Fourth, and this is serious,</target>
+        </trans-unit>
+        <trans-unit id="45">
+          <source>
+          فِي كُلِّ حَارَةٍ، وَدَرْبٍ وَقَرِيَةٍ، وَبَلْدَةٍ وَأَقْطَاعٍ،
+          </source>
+          <target>In every alley, and lane and village, and town and fief</target>
+          <note>BH: <ar>حارة</ar> narrow lane, alley (traditionally constituting a small neighborhood);  Lane puts this under root <ar>حور</ar>, but the Lisaan puts it under <ar>حير</ar> and says <ar>الْحَارَة كُلُّ مَحَلَّةٍ دَنَتْ مَنَازِلُهُم فَهُم أَهْلُ حَارَةٍ</ar> ``every locale wherein the abodes of its people are close, they are called `the folk of the Hara'.''</note>
+        </trans-unit>
+        <trans-unit id="46">
+          <source>
+          سَتَكُوْنُ لَهُ عُيُوْنٌ يَرْصُدُوْنَ وَيَتَعَسَّسُوْنَ الْمَظَالِمَ أَيْنَمَا تَقَعُ،
+          </source>
+          <target>He will have eyes observing and making the rounds at night surveilling the iniquities wherever they be</target>
+        </trans-unit>
+        <trans-unit id="47">
+          <source> يُبْلِغُوْنَهُ بِهَا</source>
+          <target>Informing him of them</target>
+        </trans-unit>
+        <trans-unit id="48">
+          <source>
+          (بَعْدَ خُرُوْجِهِ مِنَ الْأَزْهَرِ،
+          </source>
+          <target>After he left al-Azhar</target>
+        </trans-unit>
+        <trans-unit id="49">
+          <source>
+          شَقَّ طَرِيْقَهُ رَاكِبًا بَغْلَةً عَالِيَةً بِسَرْجٍ مُتَوَاضِعَ،
+          </source>
+          <target>He made his way riding a high mule with a humble saddle</target>
+        </trans-unit>
+        <trans-unit id="50">
+          <source>وَكَنْبُوْشٌ عاديٌّ</source>
+          <target>And an ordinary saddle-cloth</target>
+          <note><ar>كنبوش</ar></note>
+        </trans-unit>
+        <trans-unit id="51">
+          <source>
+          (أَثَارَ هٰذَا رِضَاءَ النَّاسِ عَنْهُ،
+          </source>
+          <target>This excited (or aroused) the satisfaction of the people</target>
+        </trans-unit>
+        <trans-unit id="52">
+          <source>
+         قَالُوْا انْظُرُوْا كَيْفَ الْعَدْلُ وَالْحُكْمُ)
+          </source>
+          <target>They said, look how (it is with) justice and wisdom</target>
+        </trans-unit>
+        <trans-unit id="53">
+          <source>
+          اِسْتَمَرَّ مَوْكِبُهُ حَتَّى وَصَلَ سُوْقَ الشَّرَابْشِيِيْنَ،
+          </source>
+          <target>His procession continued until it arrived at the Sharabshiyin market</target>
+          <note><ar>شرارشيين؟</ar>  BH: <ar>شَربُوش</ar> (Persian) hood for protecting the lit tobacco in a water-pipe</note>
+        </trans-unit>
+        <trans-unit id="54">
+          <source>قَابَلَتْهُ الْمُغَنِّيَاتُ بِالرَّقْصِ وَدَقِّ الشَّبَّابَةِ وَالدُّفُوْفِ،</source>
+          <target>Singers met it with dancing and the pulsing of reed flutes and tambourines</target>
+          <note><ar>شَّبَّابَة</ar> Wehr: reed flute</note>
+        </trans-unit>
+        <trans-unit id="55">
+          <source>وَانْطَلَقَتْ لَهُ الزَّغَارِيْدُ مَنَ الطِّيْقَان،</source>
+          <target>Ullulations burst out from the apertures (windows) of the houses</target>
+        </trans-unit>
+        <trans-unit id="56">
+          <source>بَيْنَ يَدَيْهِ مَشَى ثَلاثَةٌ مِن نُّوَّابِهِ الْجُدُدِ الَّذِيْنَ لَمْ يَطَّلِعْ عَلَى وُجُوْهِهِم إِنْسَانٌ</source>
+          <target>Before him walked three of his new deputies whose faces nobody has seen</target>
+        </trans-unit>
+        <trans-unit id="57">
+          <source>(جَارِي الْبَحْثُ عَنْ أُصُوْلِهِمْ)</source>
+          <target>(Their origins are under investigation)</target>
+        </trans-unit>
+        <trans-unit id="58">
+          <source>أَحَدُهُمْ يَحْمِلُ سَيْفًا</source>
+          <target>One of them bore a sword</target>
+        </trans-unit>
+        <trans-unit id="59">
+          <source>وَآخَرُ يَحْمِلُ مِيْزَانًا وَصِنَجًا،</source>
+          <target>Another carried a scale and weights</target>
+        </trans-unit>
+        <trans-unit id="60">
+          <source>وَالثَّالِثُ يُلَوِّحُ بِمَصْحَفٍ كَبِيْرٍ يَلْثَمُهُ بَيْنَ الْحِيْنِ وَالْحِيْنِ،</source>
+          <target>And the third brandished a large Quran, kissing it from time to time</target>
+        </trans-unit>
+        <trans-unit id="61">
+          <source>خَلْفَ الْمَوْكَبِ مَشَى عَبْدُ الْعَظِيْمِ الصَّيْرَفِي،</source>
+          <target>Behind the procession walked an And al-Azeem al-Sayrafi</target>
+        </trans-unit>
+        <trans-unit id="62">
+          <source>أَمَّا الزَّيْنِي فَرَاحَ يَهِزُّ رَأْسَهُ هَزًّا خَفَيْفًا عَلَى وَجْهِهِ خُشُوْعٌ وَتَقْوَى</source>
+          <target>As for Zayni, he was shaking his head lightly, on his face humility and piety</target>
+        </trans-unit>
+        <trans-unit id="63">
+          <source>لَفتَه أُوْلَى :  أَجْمَعَ رِجَالُنَا عَلَى وُجُوْدِ طَالِبٍ أَزْهَرِيٍّ،</source>
+          <target>First remark: our men agree on the presence of an Azhar student</target>
+        </trans-unit>
+        <trans-unit id="64">
+          <source>
+          بَقِيَ طِوَالَ الرَّكْبِ عَلَى مَقْرِبَةٍ مِنَ الزَّيْنِي بَرَكَات،
+          </source>
+          <target>He remained throughout the journey near Zayni Barakat</target>
+        </trans-unit>
+        <trans-unit id="65">
+          <source>بَدَا مُتَحَمِّسًا،</source>
+          <target>He appeared eager</target>
+        </trans-unit>
+        <trans-unit id="66">
+          <source>بِالْكَشْفِ عَنْهُ، اتَّضَحَ أَنَّهُ هُوَ الَّذِي صَحَبَهُ مِنْ بَيْتِهِ إِلَى زَاوِيَةِ الشَّيْخِ أَبُو السُّعُوْدِ</source>
+          <target>Upon investigation him, it became clear that it was he that accompanied him from his house to the little mosque of the shaykh Abu al-Suud</target>
+          <note><ar>زاوِيَة</ar> BH: small mosque without a minaret.</note>
+        </trans-unit>
+        <trans-unit id="67">
+          <source> - فِي كَوْمِ الْجَارِح</source>
+          <target>In Kom al-Jarih</target>
+        </trans-unit>
+        <trans-unit id="68">
+          <source>وَاسْمُهُ «سَعِيْد الْجُهَيْنِيّ»</source>
+          <target>His name is Said al-Juhaini</target>
+        </trans-unit>
+        <trans-unit id="69">
+          <source>لَفْتَه ثَانِيَةٌ : عِنْدَ اقْتِرُاْبِ الْمَوْكَبِ مَنْ جَامِعِ الْحَاكِمِ،</source>
+          <target>Second remark:  when the procession approached the Mosque of al-Hakim</target>
+        </trans-unit>
+        <trans-unit id="70">
+          <source>قُبَيْل عُبُوْرُهُ بَابَ الْفُتُوْح</source>
+          <target>Nearly passing by Bab al-Futuh</target>
+        </trans-unit>
+        <trans-unit id="71">
+          <source>
+          حَيْثُ يُمْكِنُ لِعَيْنَيْ الْعَابِرِ رُؤْيَةَ أَسْوَارِ سِجْنِ الْمَقْشَرَه،
+          </source>
+          <target>Where the eyes of a passer-by can see the walls of the Maqshara prison</target>
+        </trans-unit>
+        <trans-unit id="72">
+          <source>وَمَدْخَلٌهُ الْعَلْوِيِّ،</source>
+          <target>And its upper entrance</target>
+        </trans-unit>
+        <trans-unit id="73">
+          <source>ظَهَرَتِ امْرَأَةٌ سَمِيْنَةٌ، مُتَقَدِّمَةٌ فِي الْعُمْرِ، تَرْتَدِي السَّوَادَ، تَتَّشِحُ بِطَرْحَةٍ قَدِيْمَةٍ،</source>
+          <target>A fat woman appeared, advanced in years, wearing black, draped in an old headscarf</target>
+        </trans-unit>
+        <trans-unit id="74">
+          <source>شَقَّتْ لِنَفْسِهَا طَرِيْقًا</source>
+          <target>She forced a way for herself </target>
+        </trans-unit>
+        <trans-unit id="75">
+          <source>حَتَّى وَقَفَتْ أَمَامَ بَغْلَةَ الزَّيْنِي،</source>
+          <target>until she stood before the mule of Zayni</target>
+        </trans-unit>
+        <trans-unit id="76">
+          <source>زَعَقَتْ زَعْقَةً عَظِيْمَةً،</source>
+          <target>She shouted vehemently</target>
+        </trans-unit>
+        <trans-unit id="77">
+          <source>حَتَّى حَظِيَتْ بِانْتِبَاهِ الْخَلْقِ،</source>
+          <target>so drew the attention of the people</target>
+        </trans-unit>
+        <trans-unit id="78">
+          <source>طِلِعَ عَلَيْهَا طُلُوْعٌ لا يَهْتِفُ إِلَّا بِكَلِمَةٍ وَاحِدَةٍ</source>
+          <target>Upon her appeared a fit that yelled but a single thing</target>
+	  <note>pitched a fit</note>
+        </trans-unit>
+        <trans-unit id="79">
+          <source>يَا لَئِيْمُ يَابَنَ اللَّئِيْم</source>
+          <target>You vile bastard!</target>
+	  <note>BH:  cunning; Wehr: vile, wicked, filthy, etc  Farouk:  you bastard, you son of a bitch</note>
+        </trans-unit>
+        <trans-unit id="80">
+          <source>وَعِنْدَمَا تَنَبَّهَ الْعَامَّةُ هَجَمُوْا عَلَيْهَا،</source>
+          <target>And when the rabble notice they attacked her</target>
+        </trans-unit>
+        <trans-unit id="81">
+          <source>ذَابَتْ كَفَصِّ الْمِلْح،</source>
+          <target>She vanished into thin air</target>
+	  <note>BH:  crystal of coarse salt; <ar>فص مَلح وداب</ar> he vanished into thin air</note>
+        </trans-unit>
+        <trans-unit id="82">
+          <source>
+          وَجَارى الْكَشْفُ عَنْهَا،   (جارٍ؟)
+          </source>
+          <target>She is being investigated</target>
+	  <note>BH: <ar>كشف على</ar> = investigation</note>
+        </trans-unit>
+        <trans-unit id="83">
+          <source>وَتَحَرِّي حَقِيْقَتَهَا،</source>
+          <target>And her facts are being investigated</target>
+	  <note>BH:  investigation</note>
+        </trans-unit>
+        <trans-unit id="84">
+          <source>مَنْ هِيَ وَمَا أَصْلُهَا؟</source>
+          <target>Who is she and where is she from?</target>
+        </trans-unit>
+        <trans-unit id="85">
+          <source>لَفْتَه ثَالِثَة:</source>
+          <target>Third remark</target>
+        </trans-unit>
+        <trans-unit id="86">
+          <source>أَطْلَقْنَا أَحَدَ الْبَصَّاصِيْنَ الْمَهَرَةَ في أَثَرِ الزَّيْنِي لِرَسْمِ صُوْرَةً دَقِيْقَةً وَافِيَةً لِمَلَامِحِهِ،</source>
+          <target>We send one of our skilled spies after Zayni to draw a detailed and complete picture of his characteristics</target>
+        </trans-unit>
+        <trans-unit id="87">
+          <source>سَنَنْقُلُهَا إِلَيْكُمْ فَوْرَ إِتْمَامِهَا لِاطِّلَاعِكُمْ عَلَيْهَا،</source>
+          <target>We shall transfer it to you as soon as it is finished, for your perusal</target>
+        </trans-unit>
+        <trans-unit id="88">
+          <source>وَإِجْرِاءِ اللَّازِمِ مِنْ فُحُوْصٍ.</source>
+          <target>And to make the necessary examination</target>
+	  <note>BH:  test, examination</note>
         </trans-unit>
       </body>
    </file>

@@ -4,33 +4,31 @@
 	 xmlns:xi="http://www.w3.org/2001/XInclude">
 
   <title>General Vocabulary</title>
-  <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 
-  <para>
+  <dl dir="rtl">
+    <li><item>طاقة ج طيقان</item><desc><en>(colloq.) Aperture, opening (esp. one built into the wall of a mud-brick house).  Source:  Badawi \&amp; Hinds</en></desc></li>
+    <li>
+      <item>كنبوش ج كنابيش</item><desc><en>chimney-cap? (src: web);</en>
+ كساء أو ثوب يوض تحت سرج الفرس </desc>
+    </li>
+    <li>
+      <item>وصَنْجَة المِيزان وسَنْجَته ج صِنَج</item>
+      <desc>فارسي معرَّب. وقال ابن السكِّيت: لا يقال: سَنْجَة. (لسان العرب)
+      | <en>Lane, article <ar>سنج</ar>: an arabicized word, from [the Pers.] <ar>سنك</ar> [or <ar>سَنْگْ</ar>, as meaning “ a weight ”]; (O;) [or rather from the Pers. <ar>سَنْجَهْ</ar> meaning “ a balance ” and “ a weight; ”]</en>
+      </desc>
+    </li>
+    <li>
+      <item>لَثِمَ</item><desc><en>kiss; cover with kisses?</en></desc>
+    </li>
+  </dl>
 
-  </para>
+	خرق:  جماعة المماليك التي تخترق شارع حدرة البقرة
+	شق :  ص ٢٠  عن عمامة علي بن أبي الجود:  يشقّ بها في المواكب
+	سرادق
+	حارة ج حواري :  الحَارَة: كل مَحَلَّةٍ دنت مَنازِلُهم فهم أَهل حارَةٍ (لسان العرب «ح ي ر» )
+	لفتة -
+Farouk translates لفتة as "remark" - why not ملاحظة ?
 
-  <!-- <remark> -->
-  <!--   remarks ... -->
-  <!-- </remark> -->
-
-  <terminology xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi">
-
-    <xi:include href="shqq.xml"/>
-
-  </terminology>
-
-  <!--
-      <section>
-      <title>Semiology: <ar>علم</ar></title>
-      <xi:include href="../../terms/@lm.xml"/>
-      </section>
-
-<section>
-<title>Episteme: <ar>معرفة</ar></title>
-<xi:include href="../../terms/@rf.xml"/>
-</section>
-  -->
 
 </chapter>
 

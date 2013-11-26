@@ -12,6 +12,8 @@
 
   <xi:include href="history.xml"/>
 
+  <xi:include href="language.xml"/>
+
   <xi:include href="literary.xml"/>
 
   <xi:include href="genre.xml"/>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<part xmlns="http://www.sibawayhi.org/schema/2010/07/monograph"
+      xmlns:xi="http://www.w3.org/2001/XInclude"
+      xmlns:sib="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+      xmlns:typog="http://www.sibawayhi.org/schema/2010/08/typog"
+      xmlns:xlit="http://www.sibawayhi.org/schema/2010/08/xlit"
+      xml:id="background">
+  >
+    <label>ref:themes</label>
+    <title>Major Themes</title>
+
+   <chapter>
+     <label>ref:artistic</label>
+     <title>Artistic</title>
+
+     <section>
+       <title>Recovery of indigenous genres</title>
+     </section>
+
+     <section>
+       <title>Legitimacy of "middle Arabic"</title>
+    </section>
+
+     <section>
+       <title>Integration of Linguistic registers</title>
+
+       <para>
+	 Combining fusha and colloquial
+       </para>
+
+    </section>
+
+  </chapter>
+
+  <chapter>
+    <label>ref:politic</label>
+    <title>Political</title>
+    
+    <section>
+      <title>Power</title>
+
+      <para>
+      </para>
+
+      <subsection>
+	<title>Language and power</title>
+      </subsection>
+
+    </section>
+
+
+    <section>
+      <title>Surveillance</title>
+
+    </section>
+
+    <section>
+      <title>Security and Order</title>
+
+    </section>
+
+    <section>
+      <title>Etc.</title>
+
+    </section>
+
+  </chapter>
+</part>
+

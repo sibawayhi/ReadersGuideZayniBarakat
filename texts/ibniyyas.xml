@@ -8,11 +8,27 @@
   <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 
   <section>
-    <title>...</title>
+    <title>Year 922:  Roster</title>
 
-    <!-- <article> -->
-    <!--   <xi:include href="zb.passage1.xlf"/> -->
-    <!-- </article> -->
+    <para>
+      Context:  At the beginning of his account of 922, Ibn Iyyas lists the major players.
+    </para>
+
+    <article>
+      <xi:include href="ibniyyas.passage1.xlf"/>
+    </article>
+
+  </section>
+
+  <section>
+    <title>Year 922:  Zayni Barakat makes an appearance</title>
+
+    <para>
+    </para>
+
+    <article>
+      <xi:include href="ibniyyas.passage2.xlf"/>
+    </article>
 
   </section>
 

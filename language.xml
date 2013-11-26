@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<chapter xmlns="http://www.sibawayhi.org/schema/2010/07/monograph"
+	 xmlns:xi="http://www.w3.org/2001/XInclude"
+	 xmlns:sib="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+	 xmlns:typog="http://www.sibawayhi.org/schema/2010/08/typog"
+	 xmlns:xlit="http://www.sibawayhi.org/schema/2010/08/xlit"
+	 xml:id="background">
+
+  <label>ref:lang</label>
+  <title>Language</title>
+
+  <section>
+    <title>General</title>
+
+    <para>
+      A brief overview of some of the characteristics of the Arabic
+      language that make it very distinct from e.g. English.
+    </para>
+
+    <subsection>
+      <title>Syntaxis and Parataxis</title>
+
+      <para>
+	para ...
+      </para>
+
+    </subsection>
+
+    <subsection>
+      <title>Tense and Aspect</title>
+
+      <para>
+	para ...
+      </para>
+    </subsection>
+
+    <subsection>
+      <title>Vocabulary</title>
+      <para>
+	para ...
+      </para>
+    </subsection>
+
+  </section>
+
+
+  <section>
+    <title>High Arabic - <ar>العربية الفصحى</ar></title>
+
+    <para>
+      The role of High Arabic in Mamluk and Modern Egypt - authority
+      and prestige.  Its connection with cultural institutions.
+      Al-Azhar and the teaching of the traditional Arabic Sciences.
+      Use in "official" writing.  Prestige of the language of the
+      Quran.
+    </para>
+
+    <para>
+      Continuity
+    </para>
+
+    <para>
+      Political uses of High Arabic - the way institutions try to
+      acquire legitimacy by "speaking" in High Arabic.  How this shows
+      up in genres, e.g. announcements, official speeches, etc.  One
+      way to gain an advantage over an opponent is to speak better,
+      more classical Arabic.
+    </para>
+
+  </section>
+
+  <section>
+    <title>Middle Arabic</title>
+
+    <para>
+      Traditionally treated as a degenerate form of Arabic, etc.
+    </para>
+
+    <para>
+      al-Ghitāhi: Egyptian middle Arabic as <ar>بلاغة مصرية</ar>,
+      Egyptian idiom, a first-class literary language with its own
+      distinctive expressive capabilities.
+    </para>
+
+    <subsection>
+      <title>Non-Arabic Influences</title>
+
+      <subsubsection>
+	<title>Coptic</title>
+      </subsubsection>
+      <subsubsection>
+	<title>Turkish</title>
+      </subsubsection>
+      <subsubsection>
+	<title>Persian</title>
+      </subsubsection>
+    </subsection>
+  </section>
+
+  <section>
+    <title>Modern Egyptian Colloquial</title>
+
+    <para>
+      para ...
+    </para>
+
+    <subsection>
+      <title>Cairene</title>
+      <para>
+
+      </para>
+
+    </subsection>
+
+  </section>
+
+</chapter>
+
