@@ -4,7 +4,7 @@ ReadersGuideZayniBarakat
 Reader's Guide to Zayni Barakat, a Novel by Gamal al-Ghitani
 
 
-Mostly and outline, so far.  See zbguide.pdf.
+Mostly an outline, so far.  See zbguide.pdf.
 
 This is intended to be the start of a collaborative work.  Please read
 [The HoTT book](http://math.andrej.com/2013/06/20/the-hott-book/) to
